@@ -21,8 +21,9 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/talnoam/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talnoamb@gmail.com)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/talnoam/)
+[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:talnoamb@gmail.com)
+
 
 ---
 
