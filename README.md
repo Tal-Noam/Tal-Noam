@@ -21,8 +21,16 @@
 ---
 
 ## 🌐 Connect with Me
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/talnoam/)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30"/>](mailto:talnoamb@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/talnoam/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:talnoamb@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="50" />
+  </a>
+</p>
 
 ---
 
