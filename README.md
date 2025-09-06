@@ -14,7 +14,7 @@
 
 ---
 
-## 🌐 Top Languages
+## 📊 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tal-Noam&layout=compact&theme=gruvbox&hide=racket)
 
