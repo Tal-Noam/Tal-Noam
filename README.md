@@ -16,7 +16,7 @@
 
 ## 📊 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api?username=Tal-Noam&layout=compact&theme=gruvbox&hide=racket)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api?username=Tal-Noam&layout=compact&theme=gruvbox&hide=racket)
 
 ---
 
